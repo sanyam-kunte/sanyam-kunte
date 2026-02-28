@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sanyam 👋
 
-<!--
-**sanyam-kunte/sanyam-kunte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Artificial Intelligence Student  
+💻 Currently learning Python & Data Structures  
+🚀 Aspiring Machine Learning Engineer  
 
-Here are some ideas to get you started:
+## Current Focus
+- Python Programming
+- Data Structures using Python
+- Building strong coding foundation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goal
+To become a Machine Learning Engineer and pursue MSc in AI abroad.
